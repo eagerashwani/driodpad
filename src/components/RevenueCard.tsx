@@ -1,5 +1,4 @@
 import { cn } from "@/lib/utils";
-import React from "react";
 import CartIcon from "../assets/cartIcon.svg";
 import { Progress } from "./ui/progress";
 
