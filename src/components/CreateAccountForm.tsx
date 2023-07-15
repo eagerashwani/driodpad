@@ -78,13 +78,13 @@ const CreateAccountForm = () => {
           </button>
         </div>
       </div>
-      <Button className="w-2/4 h-14 rounded-none bg-cgreen mt-8 hover:none">
+      <Button className="w-2/4 h-14 rounded-none bg-cgreen mt-8 ">
         SIGN UP
       </Button>
       <Button className="w-2/4 h-14 rounded-none mt-4" variant={"outline"}>
         SIGN UP WITH GOOGLE
       </Button>
-      <Button className="w-2/4 h-14 rounded-none mt-4 mb-6">
+      <Button className="w-2/4 h-14 rounded-none mt-4 mb-6 bg-cdarkgreen">
         <img src={AppleLogo} className="pr-3" alt="Apple logo" />
         SIGN UP WITH APPLE
       </Button>
